@@ -21,5 +21,3 @@
 
 ### My Experiences
 - Tech Intern @ Ninjacart
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gautamshahkiit.Gautamshahkiit)
