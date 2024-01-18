@@ -1,15 +1,15 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Gautam Shah!
 
 <a href="https://www.linkedin.com/in/gautamshahs/">
-  <img align="left" width="24px" style="margin: 0 2" src="./svg/lndkn.svg"  />
+  <img align="left" width="24px" style="margin: 0 1" src="./svg/lndkn.svg"  />
 </a>
 
 <a href="https://twitter.com/ShahsGautam">
-  <img align="left" width="24px" style="margin: 0 2" src="./svg/twt.svg"/>
+  <img align="left" width="24px" style="margin: 0 1" src="./svg/twt.svg"/>
 </a>
 
 <a href="mailto:shahsgautam@gmail.com">
-  <img align="left" width="24px" style="margin: 0 2"src="./svg/mail.svg" />
+  <img align="left" width="24px" style="margin: 0 1"src="./svg/mail.svg" />
 </a>
 
 <br />
